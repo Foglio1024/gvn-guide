@@ -1,0 +1,12 @@
+{
+	"servers": ["https://raw.githubusercontent.com/Foglio1024/gvn-guide/master/"],
+	"name": "gvn-real-guide",
+	"author": "Foglio",
+	"disableAutoUpdate": false,
+	"description" : "Removes 'melee/ranged explosion' and 'powder scatter' on-screen messages. l2p",
+	"options": {
+		"reloadable" : true,
+		"niceName": "GVN guide",
+		"guiName": "Gossamer Vault Normal real guide"
+	}
+}
